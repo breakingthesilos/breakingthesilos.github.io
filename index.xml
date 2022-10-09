@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upcoming &amp; Past Events on Breaking the Silos</title>
+    <link>https://breakingthesilos.be/</link>
+    <description>Recent content in Upcoming &amp; Past Events on Breaking the Silos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 08 Oct 2022 16:11:42 +0200</lastBuildDate><atom:link href="https://breakingthesilos.be/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breaking the Silos: Hybrid &amp; Remote Work</title>
+      <link></link>
+      <pubDate>Sat, 08 Oct 2022 16:11:42 +0200</pubDate>
+      
+      <guid></guid>
+      <description>Our second meetup focuses on Hybrid &amp;amp; Remote Work, featuring several use cases from Belgian tech companies, followed by a panel discussion on hybrid and remote work.</description>
+    </item>
+    
+    <item>
+      <title>Breaking the Silos: Neurodiversity</title>
+      <link></link>
+      <pubDate>Sat, 08 Oct 2022 15:24:52 +0200</pubDate>
+      
+      <guid></guid>
+      <description>Our first meetup focuses on Neurodiversity (ADHD, ASD, intellectual giftedness, etc.), featuring three live keynote speakers.</description>
+    </item>
+    
+    <item>
+      <title>About the Initiative</title>
+      <link>https://breakingthesilos.be/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://breakingthesilos.be/about/</guid>
+      <description>Breaking the Silos is all about breaking siloed thinking and approaches within Belgian tech companies, and improving collaboration by:
+enlightening companies to choose sustainable solutions for problems over short-term fixes inspiring companies to embrace change in their market and in society as a whole building a safe and inclusive work environment for all people involved showcasing the advantages and success stories of breaking siloed thinking. We build a community of like-minded organisations, leaders and people that want to make sustainable change happen.</description>
+    </item>
+    
+    <item>
+      <title>Our Community</title>
+      <link>https://breakingthesilos.be/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://breakingthesilos.be/community/</guid>
+      <description>Meetup.com To become a member and RSVP to our events, join the Breaking the Silos group on Meetup.com.
+Discord server Discord is a messaging platform similar to Microsoft Teams and Slack. Since October 2022, we maintain a Discord server for chatting with members of the community.
+You can join the Breaking the Silos Discord server here.
+Social media You can also find and engage with us on LinkedIn, Twitter and Instagram.</description>
+    </item>
+    
+  </channel>
+</rss>
