@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Breaking the Silos</title>
+    <link>https://breakingthesilos.be/event/index.xml</link>
+    <description>Recent content in Events on Breaking the Silos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 11 Jan 2023 17:06:24 +0100</lastBuildDate><atom:link href="https://breakingthesilos.be/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breaking the Silos: Inclusion</title>
+      <link>https://breakingthesilos.be/event/inclusion/</link>
+      <pubDate>Wed, 11 Jan 2023 17:06:24 +0100</pubDate>
+      
+      <guid>https://breakingthesilos.be/event/inclusion/</guid>
+      <description>&lt;p&gt;At this meetup, we focus on inclusion in tech companies. Discover new strategies to foster diversity, equity and belonging in your organisation, hear from industry experts, and connect with like-minded individuals from the community.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Breaking the Silos: Hybrid &amp; Remote Work</title>
+      <link>https://breakingthesilos.be/event/hybrid-remote-work/</link>
+      <pubDate>Sat, 08 Oct 2022 16:11:42 +0200</pubDate>
+      
+      <guid>https://breakingthesilos.be/event/hybrid-remote-work/</guid>
+      <description>&lt;p&gt;How have Belgian tech companies evolved to facilitate remote or hybrid work? Or have they?&lt;/p&gt;
+&lt;p&gt;In the second meetup of Breaking the Silos, we’re presenting four cases of Belgian tech companies outlining their trajectory in (not) adopting hybrid &amp;amp; remote work, followed by a vivid panel discussion.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Breaking the Silos: Neurodiversity</title>
+      <link>https://breakingthesilos.be/event/neurodiversity/</link>
+      <pubDate>Sat, 08 Oct 2022 15:24:52 +0200</pubDate>
+      
+      <guid>https://breakingthesilos.be/event/neurodiversity/</guid>
+      <description>&lt;p&gt;Our first meetup focuses on Neurodiversity (ADHD, ASD, intellectual giftedness, etc.), featuring four live keynote speakers.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
