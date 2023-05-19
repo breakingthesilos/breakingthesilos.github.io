@@ -5,8 +5,7 @@
     <link>https://breakingthesilos.be/event/index.xml</link>
     <description>Recent content in Events on Breaking the Silos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Mon, 01 May 2023 20:50:39 +0200</lastBuildDate><atom:link href="https://breakingthesilos.be/event/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://breakingthesilos.be/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breaking the Silos: Psychological Safety</title>
       <link>https://breakingthesilos.be/event/psychological-safety/</link>
